@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mahmoud Mostafa
-- 👀 I’m interested in Programming abd Computer Science
+- 👀 I’m interested in Programming and Computer Science
 - 🌱 I’m currently learning React JS and Redux
 - 💞️ I’m looking to collaborate on huge Projects
 - 📫 You can reach me by Gmail mail : mahmoud309mostafa@gmail.com
