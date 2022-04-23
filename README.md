@@ -13,8 +13,7 @@
 
 ## What I know :computer:
 - **Competitive Programming**
-  - JavaScript ❤️
-	- Java 
+	- Java ❤️
 	- Python
 	- Some C++
 - **Frontend Development**
