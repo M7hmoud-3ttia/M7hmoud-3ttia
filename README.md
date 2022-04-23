@@ -30,8 +30,8 @@
 ## Reach me 
 [![Github](https://img.shields.io/github/followers/mahmoudjhonny?label=Follow&style=social)](https://github.com/mahmoudjhonny)
 [![Instagram](https://img.shields.io/badge/-@mahmoud_johhny-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/mahmoud_jhonny/)](https://www.instagram.com/mahmoud_johhny/)
-[![Linkedin](https://img.shields.io/badge/-Sarthak%20Bharadwaj-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sarthak-bharadwaj-8552b5110/)](https://www.linkedin.com/in/mahmoud-mostafa-35b879216/)
-[![Mail](https://img.shields.io/badge/-sarthakbh321@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/sarthak-bharadwaj-8552b5110/)](mahmoud309mostafa@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-=Mahmoud%20Mostafa-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mahmoud-mostafa-35b879216/)](https://www.linkedin.com/in/mahmoud-mostafa-35b879216/)
+[![Mail](https://img.shields.io/badge/-mahmoud309mostafa@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/mahmoud-mostafa-35b879216/)](mahmoud309mostafa@gmail.com)
 
 
 ### Interesting stats
