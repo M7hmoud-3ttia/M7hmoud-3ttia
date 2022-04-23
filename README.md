@@ -34,6 +34,6 @@
 
 ### Interesting stats
 
-![Sarthak's stats](https://github-readme-stats.vercel.app/api?username=sarthakbh321&show_icons=true)
+![Mahmoud's stats](https://github-readme-stats.vercel.app/api?username=sarthakbh321&show_icons=true)
 
 Thanks for stopping by! 😁
