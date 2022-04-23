@@ -1,7 +1,7 @@
 # Welcome to my github! 👋
 
 <div align="center">
-	<img src="https://drive.google.com/file/d/1g_ibVM1ZR95lepmBqtCGKPyOGOQoeOwi/view?usp=sharing">
+	<img src="https://s10.gifyu.com/images/ezgif.com-gif-maker1ba4f6e6b425ad6c.gif">
 </div>
 
 ## About me :mortar_board:
