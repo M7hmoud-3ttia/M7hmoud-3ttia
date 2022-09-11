@@ -27,7 +27,7 @@
 	- MUI
 
 ## What I want to do next :thinking:
-- Backend Development (to become a Full-Stack developer)
+- Backend Development (to become a MERN-Stack developer)
 - At least delve into AI and ML.
 
 ## Reach me 
