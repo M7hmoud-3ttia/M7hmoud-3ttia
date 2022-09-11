@@ -1,5 +1,9 @@
 # Welcome to my github! 👋
 
+<div align="center">
+	<img src="https://s10.gifyu.com/images/ezgif.com-gif-maker1ba4f6e6b425ad6c.gif">
+</div>
+
 ## About me :mortar_board:
   - 👋 Hi, I’m @Mahmoud Mostafa
   - 👀 I’m interested in Programming and Computer Science
