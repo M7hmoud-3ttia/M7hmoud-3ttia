@@ -17,9 +17,13 @@
 	- Python
 	- Some C++
 - **Frontend Development**
-	- HTML, CSS and Javascript :white_check_mark:
-	- Bootstrap
-	- React with Redux :electron:
+	- HTML 5 
+	- CSS 3
+	- Javascript :white_check_mark:
+	- Bootstrap 5
+	- React
+	- GraphQl
+	- Redux Toolkit :electron:
 	- MUI
 
 ## What I want to do next :thinking:
