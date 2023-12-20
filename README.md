@@ -15,7 +15,9 @@
 - **Competitive Programming**
 	- Java ❤️
 	- Python
+ 	- C 
 	- Some C++
+   
 - **Frontend Development**
 	- HTML 5 
 	- CSS 3
@@ -25,9 +27,11 @@
 	- GraphQl
 	- Redux Toolkit :electron:
 	- MUI
+ 	- ATND
+  	- Node JS
+  	- Mongo DB  
 
 ## What I want to do next :thinking:
-- Backend Development (to become a MERN-Stack developer)
 - At least delve into AI and ML.
 
 ## Reach me 
