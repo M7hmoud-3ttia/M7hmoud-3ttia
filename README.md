@@ -1,4 +1,4 @@
-# ✨ Hi there, I'm Mahmoud Mostafa Mahmoud Attia! 👋
+# ✨ Hi there, I'm Mahmoud Mostafa ! 👋
 
 🚀 **Frontend Developer | TV Software Developer | React.js Expert**
 
