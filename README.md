@@ -54,6 +54,6 @@ I’m always open to **new opportunities**, especially where I can work on **cut
 
 ## 📊 GitHub Stats
 
-![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmoudjhonny&show_icons=true&theme=radical)
+![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=M7hmoud-3ttia&show_icons=true&theme=radical)
 
 ---
